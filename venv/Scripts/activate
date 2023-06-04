@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\heeyoung\OneDrive\바탕 화면\LSBoard\venv"
+VIRTUAL_ENV="C:\Users\ijung\PycharmProjects\LSBoard\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

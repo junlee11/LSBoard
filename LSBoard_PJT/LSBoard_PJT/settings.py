@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'livesync',    
-    'django.contrib.staticfiles',
-    
+    'django.contrib.staticfiles',    
+    'main',    
 ]
 
 MIDDLEWARE = [
